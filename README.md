@@ -10,3 +10,8 @@
 </ul>
 
 <h3>Addressing Plan</h3>
+<tr>
+<td>
+<th>Device</th>
+</td>
+</tr>
