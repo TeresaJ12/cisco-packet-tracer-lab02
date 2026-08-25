@@ -10,8 +10,8 @@
 </ul>
 
 <h3>Addressing Plan</h3>
+<table>
 <tr>
-<td>
 <th>Device</th>
-</td>
+<th>Interface</th>
 </tr>
