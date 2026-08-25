@@ -2,3 +2,6 @@
 <h2>Lab 2: Connect two LANs with a Router</h2>
 
 <h3>Scenario</h3>
+<p></p>
+
+<h3>Required Devices</h3>
