@@ -15,3 +15,4 @@
 <th>Device</th>
 <th>Interface</th>
 </tr>
+</table>
